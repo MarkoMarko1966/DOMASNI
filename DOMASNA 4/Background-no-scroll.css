@@ -1,0 +1,6 @@
+body{
+    background-image: url(./Background-no-scroll.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
