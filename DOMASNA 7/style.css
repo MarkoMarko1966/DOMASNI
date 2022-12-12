@@ -1,0 +1,71 @@
+.container{
+    width: 60%;
+    margin: auto;
+    background-color: pink;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    font-size: 20px;
+}
+.header{
+    width: 90%;
+    margin: auto;
+    height: 50px;
+    background-color: turquoise;
+    text-align: center;
+    margin-top: -1%;
+}
+.header p{
+    padding-top: 12px;
+}
+.footer p{
+    padding-top: 12px;
+}
+.article p{
+    padding-top: 150px;
+}
+.footer{
+    width: 90%;
+    margin: auto;
+    height: 50px;
+    background-color: turquoise;
+    text-align: center;
+    margin-top: 2%;
+}
+.box{
+    width: 90%;
+    display: inline-flex;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.aside{
+    width: 30%;
+    height: 400px;
+    background-color: blue;
+    margin-right: 2%;
+    text-align: center;
+}
+.article{
+    width: 70%;
+    height: 400px;
+    background-color: tomato;
+    text-align: center;
+}
+.images{
+    display: inline-flex;
+    width: 100%;
+}
+.image{
+    width: 29.5%;
+    height: 150px;
+    background-color: grey;
+    margin-left: 3%;
+    margin-top: 25px;
+    margin-bottom: 2%;
+}
+.image p{
+    padding-top: 50px;
+}
+.aside p{
+    padding-top: 150px;
+}
