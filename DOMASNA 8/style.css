@@ -1,0 +1,65 @@
+body{
+    background-color: antiquewhite;
+}
+.container{
+    width:60%;
+    margin: auto;
+    background-color: transparent;
+    padding-bottom: 2%;
+    padding-top: 1%;
+}
+.card{
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 2.3%;
+    height: 400px;  
+}
+.flex{
+    display: inline-flex;
+    margin: auto;
+    margin-top: 2%;
+}
+.span{
+    height:10px;
+    width:30px;
+    float: right;
+    margin-top: 5%;
+}
+.image{
+    width:100px;
+    height:100px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.card h2, p{
+    text-align: center;
+}
+.btn{
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 90px;
+    color: white;
+}
+p{
+    margin-bottom: 12%;
+    font-size: 13px;
+}
+.magenta span, .magenta a{
+    background-color: magenta;
+}
+.lightblue span, .lightblue a{
+    background-color: lightblue;
+}
+.yellow span, .yellow a{
+    background-color: yellow;
+}
+.green span, .green a{
+    background-color: green;
+}
+.darkslateblue span, .darkslateblue a{
+    background-color: darkslateblue;
+}
+.tomato span, .tomato a{
+    background-color: tomato;
+}
