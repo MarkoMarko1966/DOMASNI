@@ -1,0 +1,82 @@
+div{
+    color: white;
+    text-align: left;
+}
+.inline-block{
+    width: 100%;
+    display: inline-flex;
+    /* margin: ; */
+}
+.quarter{
+    width: 24%;
+    height: 75px;
+    background-color: yellow;
+    margin-right: 1%;
+}
+#header{
+    width: 75%;
+    height: 75px;
+    background-color: purple;
+}
+#sidebar{
+    width: 24%;
+    height: 255px;
+    background-color: green;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+.half{
+    width: 50%;
+
+}
+#promo{
+    width: 100%;
+    background-color: blue;
+    height: 75px;
+    margin-top: 2%;
+}
+.inline-flex{
+    display: inline-flex;
+    width: 100%;
+}
+#news{
+    background-color: red;
+    height: 75px;
+    width: 100%;
+    margin-top: 4%;
+}
+#ads{
+    background-color: purple;
+    height: 75px;
+    width: 100%;
+    margin-top: 4%;
+}
+#content{
+    background-color: orange;
+    height: 164px;
+    width: 49%;
+    margin-top: 2%;
+}
+.news_ads{
+    width: 49%;
+    margin-right: 2%;
+}
+.article{
+    width: 24%;
+    margin-left: 1%;
+}
+.articles{
+    height: 75px;
+    background-color: green;
+    width: 100%;
+    margin-top: 4%;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.grey{
+    background-color: grey;
+}
